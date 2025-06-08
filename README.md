@@ -1,7 +1,43 @@
-Tic-tac-toe, also known as noughts and crosses, is a simple two-player game played on a 3x3 grid where players take turns marking spaces with "X" or "O",
-aiming to be the first to get three in a row (horizontally, vertically, or diagonally). 
-Rules for Tic-Tac-Toe->
-The game is played on a grid that's 3 squares by 3 squares.
-You are X , your friend (or the computer in this case) is O . Players take turns putting their marks in empty squares.
-The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
-When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
+# Tic-Tac-Toe Game 🎮
+
+## Description  
+A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Players can take turns placing Xs and Os on a grid until one wins or the game ends in a draw.
+
+## Features  
+- Two-player mode  
+- Interactive and responsive design  
+- Winning condition detection  
+- Restart/reset option  
+- Clean and user-friendly interface  
+
+## Installation & Usage  
+Clone the repository:  
+```bash
+git clone https://github.com/priyankagupta/tic-tac-toe.git  
+cd tic-tac-toe  
+Open index.html in a browser to start playing.
+
+Technologies Used
+HTML – Game structure
+
+CSS – Styling and layout
+
+JavaScript – Game logic and user interactions
+
+How It Works
+Players take turns clicking on grid cells to place X or O.
+
+JavaScript checks for a winner or draw after each turn.
+
+If a player wins, a message displays the result.
+
+Players can restart the game anytime.
+
+Contributions
+Feel free to fork, open issues, or submit pull requests to improve the game!
+
+License
+Specify license type (MIT, GPL, etc.).
+
+Author
+Priyanka Gupta (https://github.com/Priyankagupta3522)
