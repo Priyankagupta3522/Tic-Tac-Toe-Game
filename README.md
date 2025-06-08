@@ -37,7 +37,7 @@ Contributions
 Feel free to fork, open issues, or submit pull requests to improve the game!
 
 License
-Specify license type (MIT, GPL, etc.).
+Specify license type (LICENSE.md).
 
 Author
 Priyanka Gupta (https://github.com/Priyankagupta3522)
